@@ -12,7 +12,7 @@ Responsive: Coming soon.
 
 Currently in progress with JS.
 
-Last update: 12/08/2023
+Last update: 13/08/2023
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesllen-do-carmo-ara%C3%BAjo-0b1115276/)
 
