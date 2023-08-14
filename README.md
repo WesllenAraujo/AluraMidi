@@ -4,15 +4,15 @@
 This project was made by Alura's JS course. This website will play a song when the user click on a button.
 ## Status
 
-Status: In process.
+Status: Finished.
 
-Responsive: Coming soon.
+Responsive: Yes. **UPDATE**
 
 ## Updates
 
-Currently in progress with JS.
+This project was finished.
 
-Last update: 13/08/2023
+Last update: 14/08/2023
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesllen-do-carmo-ara%C3%BAjo-0b1115276/)
 
@@ -27,7 +27,7 @@ JS (Javascript)
 
 In this project i grow up my abilities about HTML, CSS and JS.
 
-I don't have any problem building this project yet. (12/08/2023).
+I don't have any problem building this project. (14/08/2023).
 
 
 
